@@ -17,3 +17,7 @@
   - I grew more confident in my skills each week and started to really see how I can recreate my 2D scene. Each step in my process was becoming more specific and exact as well as the development started to become much quicker. The concepts made more sense and I was seeing the end result in my head much clearer. It was really awesome to see where I was in week 1 and the final project I have now.
 
 ## How can computer science help me in reaching my goals?
+- How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
+  - I can definitely say I learned a lot from this course. It was a bumpy ride in the beginning but it came together very well. There's a lot of knowledge that I gained from this that I will use in future courses that involve object creation, texturing, positioning, etc.
+- How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+  - I was really excited about this course because I want to get into game development so this was a huge intro into that for me. It is why I wanted to create a scene of a room instead of just some simple objects as well. I wanted to push myself to create something much more intricate to know that I could do it. I still have a lot to learn but I am happy with my final project. 
